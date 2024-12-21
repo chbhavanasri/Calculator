@@ -1,0 +1,40 @@
+.container{
+    margin: 40px auto;
+    width: 480px;
+    padding: 15px;
+    background-color: #5c5c5c;
+    border-radius: 20px;
+    border: 2px solid black;
+}
+input{
+    width: 100%;
+    font-size: 38px;
+    border-radius: 10px;
+    padding: 5px 8px;
+    border: none;
+    outline: none;
+    color: grey;
+    box-sizing: border-box;
+    margin-bottom:30px ;
+    height: 70px;
+}
+.row{
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+}
+button{
+    font-size: 35px;
+    width: 70px;
+    height: 60px;
+    border-radius: 10px;
+    border: none;
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    color:black;
+    cursor: pointer;
+
+
+}
